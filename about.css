@@ -75,7 +75,8 @@ header>h1{
 	background-color: whitesmoke;
 }
 .aboutus1photo>img{
-	width: auto;
+	width: 330px;
+    height: 370px;
 }
 .myatminpicbox{
 	background-image: url("../League-of-Introverts/pj photo1/myatmin.png");
