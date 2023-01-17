@@ -74,6 +74,9 @@ header>h1{
 	background-size: cover;
 	background-color: whitesmoke;
 }
+.aboutus1photo>img{
+	width: auto;
+}
 .myatminpicbox{
 	background-image: url("../League-of-Introverts/pj photo1/myatmin.png");
 }
@@ -91,7 +94,7 @@ header>h1{
 	margin: 100px 0px;
     background-color: #eee;
     padding: 20px 0px;
-   
+
 }
 .aboutus1info{
 	margin-right: 100px;
